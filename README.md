@@ -4,11 +4,11 @@ NOT EXTENSIVELY TESTED
 
 To use download ZIP, unpack, go to chrome://extensions, enable Developer Mode and click "load unpacked extension".
 
+How it came to be: https://twitter.com/Xenius101/status/1164114105780854785
+
 Author: https://twitter.com/xDreamCoding
 
 Credits: https://twitter.com/tomaxwell for inspiration https://9to5google.com/2015/06/14/how-to-make-a-chrome-extensions/
-
-
 
 
 MIT License
