@@ -2,7 +2,7 @@ This Chrome Extension replaces "financial analyst" with "fucking clown" everywhe
 
 NOT EXTENSIVELY TESTED
 
-To use go to chrome://extensions, enable Developer Mode and load unpacked extension.
+To use download ZIP, unpack, go to chrome://extensions, enable Developer Mode and click "load unpacked extension".
 
 Author: https://twitter.com/xDreamCoding
 
